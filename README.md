@@ -1,11 +1,15 @@
 # About me 😄
+Who am I?, My name is Brayan Téllez, I'm a passionate on technology, informatic and computers, I love programming and I dedicate some time to do it and learn new things and ways to do the things. I'm focus mainly on web development with React, Typescript, NextJS and a little React Native, here you can found some projects with these technologies. 
 
+##### Spanish
+¿Quién soy?, Me llamo Brayan Téllez, soy  un apasionado de la tecnología, la informática y los ordenadores, me encanta programar y dedico una buena parte de mi tiempo libre a hacerlo, siempre intentando aprender nuevas cosas y formas de hacer las cosas. Estoy enfocado principalmente al desarrollo web con React, Typescript, Next JS y un poco de React Native, aquí en mi portafolio tu podrás encontrar algunos proyectos con estas tecnologías.
 
 ## Social Networks
 
 - [Youtube](https://www.youtube.com/channel/UCewsVK6HkOKMRoxIPrlZwYw)
 - [Facebook](https://www.facebook.com/Web-paso-a-paso-105191964720144)
 - [Twitter](https://twitter.com/brayan_web)
+- [Instagram](https://www.instagram.com/brayant948/)
 
 <!--
 **BrayanTCc83/BrayanTCc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
