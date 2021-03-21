@@ -4,6 +4,8 @@
 ## Social Networks
 
 - [Youtube](https://www.youtube.com/channel/UCewsVK6HkOKMRoxIPrlZwYw)
+- [Facebook](https://www.facebook.com/Web-paso-a-paso-105191964720144)
+- [Twitter](https://twitter.com/brayan_web)
 
 <!--
 **BrayanTCc83/BrayanTCc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
