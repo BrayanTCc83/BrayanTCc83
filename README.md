@@ -23,6 +23,15 @@ Tengo experiencia en el uso de HTML, CSS y Javascript, haciendo maquetaciones co
 - React JS : 1.5 años
 - ReactNative : 1 año
 
+<hr>
+## My projects
+
+##### Spanish
+He realizado múltiples proyectos, especialmente de como proyectos escolares entre ellos están los siguientes:
+- Una página web de ventas (Solo muestra) : Este fue un proyecto escolar desarrollado con tecnologías como JSP, Javascript y CSS Grid, consiste en una tienda virtual ficticia sobre tecnología y artículos de electrónica, cuenta con un sistema de carrito donde puedes añadir nuevos productos y hacer pagos con paypal (de forma ficticia).
+- Una calculadora funcional : Con React Native, capaz de realizar las operaciones más básicas, mostrando una interfaz de usuario.
+- Una red social : Esta en desarrollo, también como proyecto escolar, está creada en React Native, tiene funcionalidad de publicaciones y mensajería, no tiene un sistema de relación de usuarios integrada, si no que cualquier persona que este registrada puede iniciar una conversación con alguien más y ver las publicaciones en el orden en que fueron realizadas..
+
 ## Social Networks
 
 - [Youtube](https://www.youtube.com/channel/UCewsVK6HkOKMRoxIPrlZwYw)
