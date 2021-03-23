@@ -1,0 +1,3 @@
+"scripts": {
+  "docs": "md-magic --path '**/*.md' --ignore 'node_modules'"
+},
