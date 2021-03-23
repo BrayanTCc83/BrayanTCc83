@@ -6,9 +6,15 @@ Who am I?, My name is Brayan Téllez, I'm a passionate on technology, informatic
 ¿Quién soy?, Me llamo Brayan Téllez, soy  un apasionado de la tecnología, la informática y los ordenadores, me encanta programar y dedico una buena parte de mi tiempo libre a hacerlo, siempre intentando aprender nuevas cosas y formas de hacer las cosas. Estoy enfocado principalmente al desarrollo web con React, Typescript, Next JS y un poco de React Native, aquí en mi portafolio tu podrás encontrar algunos proyectos con estas tecnologías.
 
 <hr>
+## python
 ```python
-useIt() # return Hola
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+
 ## Knowledges
 I have experience on HTML, CSS and Javascript, doing web maquetations with Flexbox and Grid.
 - HTML : 2 years
