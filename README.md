@@ -10,9 +10,7 @@ Who am I?, My name is Brayan Téllez, I'm a passionate on technology, informatic
 <table>
        <caption>Test</caption>
 </table>
-<script>
-       alert("Código")
-</script>
+<!-- AUTO-GENERATED-CONTENT:START (CODE:src=./readme-code.js) --
        
 ## Knowledges
 I have experience on HTML, CSS and Javascript, doing web maquetations with Flexbox and Grid.
